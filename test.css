@@ -10163,10 +10163,10 @@ body {
  margin-top:1rem
 }
 .footer {
- background-color:transparent
+ background-color:transparent;
 }
 .no-content {
- background:url(https://www.clipartmax.com/png/small/203-2038426_fabulous-max%7E-anime-girl-halloween-chibi.png) no-repeat 50% 50%;
+ background-color:transparent;
  height:240px;
  line-height:240px;
  text-align:center;
